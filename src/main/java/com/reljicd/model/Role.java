@@ -1,4 +1,15 @@
 package com.reljicd.model;
+// Import Long class if used
+import java.lang.Long;
+
+// Import Collection class if used
+import java.util.Collection;
+
+// Your class definition
+public class Role {
+    // Your class implementation
+}
+
 
 import javax.persistence.*;
 import java.util.Collection;
